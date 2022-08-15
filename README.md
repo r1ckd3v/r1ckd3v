@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erickvr2k
 - 👀 I’m interested in learning to code better
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS and SQL
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me erickvr2k@gmail.com
 
