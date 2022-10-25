@@ -11,8 +11,6 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-06283D?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=FD841F)]()
 [![Markdown](https://img.shields.io/badge/Markdown-06283D?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=346751)]()
 
-prueba de git
-
 <!---
 erickvr2k/erickvr2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
