@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @erickvr2k
-- 👀 I’m interested in learning to code better
-- 🌱 I’m currently learning HTML, CSS and SQL
+- 👋 Hi, I’m @erickvr-dev
+- 👀 I’m interested in Data Science and Backend 
+- 🌱 I’m currently learning Python, Django and Javascript
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me erickvr2k@gmail.com
+- 📫 How to reach me erickvr.dev@gmail.com
 
 [![HTML](https://img.shields.io/badge/HTML5-06283D?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=FF4C29)]()
 [![CSS](https://img.shields.io/badge/CSS3-06283D?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=7FBCD2)]()
