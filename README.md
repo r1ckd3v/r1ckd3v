@@ -10,7 +10,7 @@
 [![MariaDB](https://img.shields.io/badge/MariaDB-06283D?style=for-the-badge&logo=MariaDB&logoColor=white&labelColor=47B5FF)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-06283D?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=FD841F)]()
 [![Markdown](https://img.shields.io/badge/Markdown-06283D?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=346751)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=346751)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=316750)]()
 
 <!---
 erickvr2k/erickvr2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
