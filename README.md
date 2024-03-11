@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erickvr-dev
-- 👀 I’m interested in Data Science and Backend 
-- 🌱 I’m currently learning Python, Django and Javascript
+- 👀 I’m interested in Full Stack Career
+- 🌱 I’m currently learning Javascript and React
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me erickvr.dev@gmail.com
 
