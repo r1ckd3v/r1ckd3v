@@ -24,6 +24,8 @@
 ]()
 [![Static Badge](https://img.shields.io/badge/Github-06283D?style=for-the-badge&logo=github&logoColor=white&labelColor=9E95B7)
 ]()
+[![Static Badge](https://img.shields.io/badge/React-06283D?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB)
+]()
 
 
 <!---
