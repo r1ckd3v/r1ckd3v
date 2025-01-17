@@ -20,6 +20,10 @@
 ]()
 [![Static Badge](https://img.shields.io/badge/jQuery-06283D?style=for-the-badge&logo=jquery&logoColor=white&labelColor=0769AD)
 ]()
+[![Static Badge](https://img.shields.io/badge/Git-06283D?style=for-the-badge&logo=Git&logoColor=white&labelColor=F05032)
+]()
+[![Static Badge](https://img.shields.io/badge/Github-06283D?style=for-the-badge&logo=github&logoColor=white&labelColor=9E95B7)
+]()
 
 
 <!---
