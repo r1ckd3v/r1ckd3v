@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erickvr-dev
-- 👀 I’m interested in Full Stack Career
-- 🌱 I’m currently learning Javascript and React
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me erickvr.dev@gmail.com
 
@@ -11,6 +11,16 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-06283D?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=FD841F)]()
 [![Markdown](https://img.shields.io/badge/Markdown-06283D?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=346751)]()
 [![Python](https://img.shields.io/badge/Python-06283D?style=for-the-badge&logo=Python&logoColor=white&labelColor=24AA85)]()
+[![Static Badge](https://img.shields.io/badge/Node.js-06283D?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933)]()
+[![Static Badge](https://img.shields.io/badge/Express-06283D?style=for-the-badge&logo=express&logoColor=white&labelColor=5C73E7)]()
+[![Static Badge](https://img.shields.io/badge/EJS-06283D?style=for-the-badge&logo=ejs&logoColor=white&labelColor=DD4B39)]()
+[![Static Badge](https://img.shields.io/badge/Bootstrap-06283D?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3)
+]()
+[![Static Badge](https://img.shields.io/badge/Javascript-06283D?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E)
+]()
+[![Static Badge](https://img.shields.io/badge/jQuery-06283D?style=for-the-badge&logo=jquery&logoColor=white&labelColor=0769AD)
+]()
+
 
 <!---
 erickvr2k/erickvr2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
