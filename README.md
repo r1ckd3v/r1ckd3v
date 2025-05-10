@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @erickvr-dev
+- 👋 Hi, I’m Rick Dev
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on any project
+- 🌱 I’m currently working with Postgres, Express, React and Node
+- 💞️ I’m open to collaborate on any project
 - 📫 How to reach me erickvr.dev@gmail.com
 
 [![HTML](https://img.shields.io/badge/HTML5-06283D?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=FF4C29)]()
