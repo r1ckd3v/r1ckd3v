@@ -30,6 +30,12 @@
 )]()
 [![Typescript](https://img.shields.io/badge/Typescript-06283D?style=for-the-badge&logo=typescript&logoColor=white&labelColor=%233178C6
 )]()
+[![Docker](https://img.shields.io/badge/Docker-06283D?style=for-the-badge&logo=docker&logoColor=white&labelColor=%232496ED
+)]()
+[![Podman](https://img.shields.io/badge/Podman-06283D?style=for-the-badge&logo=podman&logoColor=white&labelColor=%23892CA0
+)]()
+
+
 
 
 
